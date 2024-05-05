@@ -4,6 +4,10 @@ WebUI
 
 https://6bd7-1-64-199-134.ngrok-free.app
 
+hoccraymond@gmail.com
+
+airs1 
+
 1. which llm model can provide cantonese chat conversation
 2. which llm model can provide traditiaonl chinese cht conversation
 3. which llm model can gernerate latex for math equation 
