@@ -4,6 +4,14 @@ WebUI
 
 https://86d9e222a15c.ngrok.app/
 
+magi system
+
+melchior-1 
+
+balthasar-2
+
+casper-3
+
 hkdse-ddns.net:3000
 
 https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation
