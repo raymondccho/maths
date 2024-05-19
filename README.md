@@ -4,6 +4,14 @@ WebUI
 
 https://86d9e222a15c.ngrok.app/
 
+hkdse-ddns.net:3000
+
+https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation
+
+bras-kets notation
+
+<|    |>
+
 hoccraymond@gmail.com
 
 1. which llm model can provide cantonese chat conversation
