@@ -12,7 +12,7 @@ balthasar-2
 
 casper-3
 
-hkdse-ddns.net:3000
+hkdse.ddns.net:3000
 
 https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation
 
