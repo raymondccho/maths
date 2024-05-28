@@ -1,5 +1,7 @@
 # maths
 
+hkdse.ddns.net:3000
+
 WebUI
 
 https://86d9e222a15c.ngrok.app/
