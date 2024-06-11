@@ -1,6 +1,6 @@
 # maths
 
-hkdse.ddns.net:3000
+aiedu.ddns.net:3000
 
 WebUI
 
